@@ -13,18 +13,4 @@ React: The project is built using React, a popular JavaScript library for buildi
 
 React Router: React Router is used for managing client-side routing and navigation within the application.
 
-Installation
-
-To set up the Expense Tracker React Client project locally, follow these steps:
-
-Clone the repository: git clone git@github.com:jaiminpatel047/expense-tracker.git
-
-Navigate to the project directory: cd expense-tracker-react-client
-
-Install the dependencies: npm install
-
-Configure the API endpoint: In the project code, specify the URL of the server-side API in a configuration file.
-
-Start the development server: npm start
-
 Open the application in your web browser at http://localhost:3000
